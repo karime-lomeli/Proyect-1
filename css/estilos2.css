@@ -1,16 +1,3 @@
 html {
     background-color: darkorange;
 }
-div {
-    font-size: smaller;
-    color: azure;
-    width: 0em;
-    height: 50;
-    border: yellow;
-    display: block;
-}
-
-header {
-    color: bisque;
-    width: 45px;
-}
