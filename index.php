@@ -25,8 +25,6 @@
             break;
         } 
     ?>
-    <!--Footer-->
     
-    <!--End Footer-->
 </body>
 </html>
