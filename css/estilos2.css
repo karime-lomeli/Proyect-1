@@ -1,4 +1,7 @@
-div{
+html {
+    background-color: darkorange;
+}
+div {
     font-size: smaller;
     color: azure;
     width: 0em;
@@ -7,7 +10,7 @@ div{
     display: block;
 }
 
-header{
+header {
     color: bisque;
     width: 45px;
 }
