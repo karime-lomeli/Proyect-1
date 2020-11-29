@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tienda | Cutsie Girl</title>
+    <!--Links-->
+
+    <!--Fin Links-->
+</head>
+<body>
+    <!--Header-->
+    
+    <!--Fin Header-->
+    <?php
+        if(!isset($mod))
+            $mod = 'main';
+        switch ($mod) {
+            case 'main': //Página Principal
+                include "views/main.php";
+                break;
+            case 'store':
+                include "";
+            break;
+        } 
+    ?>
+</body>
+</html>
